@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GRProntAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f88a3877759310ea7612673568d47bdfcd7602f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GRProntAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GRProntAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

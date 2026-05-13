@@ -24,14 +24,14 @@ namespace GRProntAPP.Models
         public DateTime? DateOfBirth { get; set; }
 
         [MaxLength(20)]
-        public string Gender { get; set; }
+        public string? Gender { get; set; }
 
         [Required]
         [MaxLength(20)]
-        public string CPF { get; set; }
+        public string? CPF { get; set; }
 
         [MaxLength(50)]
-        public string RG { get; set; }
+        public string? RG { get; set; }
 
         [EmailAddress]
         [MaxLength(200)]
@@ -43,51 +43,51 @@ namespace GRProntAPP.Models
 
         // Endereço
         [MaxLength(200)]
-        public string Street { get; set; }
+        public string? Street { get; set; }
 
         [MaxLength(20)]
-        public string Number { get; set; }
+        public string? Number { get; set; }
 
         [MaxLength(100)]
-        public string Complement { get; set; }
+        public string? Complement { get; set; }
 
         [MaxLength(100)]
-        public string Neighborhood { get; set; }
+        public string? Neighborhood { get; set; }
 
         [MaxLength(100)]
-        public string City { get; set; }
+        public string? City { get; set; }
 
         [MaxLength(100)]
-        public string State { get; set; }
+        public string? State { get; set; }
 
         [MaxLength(20)]
-        public string ZipCode { get; set; }
+        public string? ZipCode { get; set; }
 
         [MaxLength(100)]
-        public string EmergencyContactName { get; set; }
+        public string? EmergencyContactName { get; set; }
 
         [Phone]
         [MaxLength(50)]
-        public string EmergencyContactPhone { get; set; }
+        public string? EmergencyContactPhone { get; set; }
 
         [MaxLength(100)]
-        public string Occupation { get; set; }
+        public string? Occupation { get; set; }
 
         [MaxLength(50)]
-        public string Nationality { get; set; }
+        public string? Nationality { get; set; }
 
         // Informações médicas
         [MaxLength(3)]
-        public string BloodType { get; set; }
+        public string? BloodType { get; set; }
 
-        public string Allergies { get; set; }
+        public string? Allergies { get; set; }
 
-        public string MedicalHistory { get; set; }
+        public string? MedicalHistory { get; set; }
 
         [MaxLength(200)]
-        public string InsuranceProvider { get; set; }
+        public string? InsuranceProvider { get; set; }
 
-        public string Notes { get; set; }
+        public string? Notes { get; set; }
 
         // Auditoria
         [DataType(DataType.DateTime)]

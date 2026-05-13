@@ -156,4 +156,8 @@ C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\ru\Microsoft.
 C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\obj\Debug\net10.0\GRProntAPP.sourcelink.json
+C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Gui\Documents\dev\GRProntAPP\GRProntAPP\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
