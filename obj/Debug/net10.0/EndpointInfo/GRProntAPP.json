@@ -1,0 +1,34 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "GRProntAPP | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:64899/"
+    },
+    {
+      "url": "https://localhost:44386/"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "GRProntAPP"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "GRProntAPP"
+    }
+  ]
+}
